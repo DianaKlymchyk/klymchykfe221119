@@ -3,10 +3,12 @@
 There are a project with 2 conditional rendered components.
 
 Button, NoUsersText and UserInfo components have simple tests. 
+
 Users are saved in Redux.
+
 You have to use localhost:3000 only to start this app.
 
-===
+============================================================================================================================
 
 # Getting Started with Create React App
 
