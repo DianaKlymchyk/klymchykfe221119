@@ -1,0 +1,19 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`no users text render 1`] = `
+<div
+  className="no-users"
+  onClick={[Function]}
+>
+  NoUsersText
+</div>
+`;
+
+exports[`no users text render 2`] = `
+<div
+  className="no-users"
+  onClick={[Function]}
+>
+  NoUsersText
+</div>
+`;

@@ -1,0 +1,27 @@
+.user-item {
+  display: grid;
+  grid-template-columns: 300px 1fr auto;
+  grid-column-gap: 30px;
+  padding-top: 30px;
+  padding-bottom: 30px;
+}
+
+.user-item:not(:last-child) {
+  border-bottom: 1px solid #ccc;
+}
+
+.view-button {
+  padding: 15px;
+  border: 1px solid gray;
+  background: white;
+  border-radius: 15px;
+}
+
+.view-button:hover {
+  cursor: pointer;
+}
+
+img {
+  max-width: 100px;
+  max-height: 200px;
+}

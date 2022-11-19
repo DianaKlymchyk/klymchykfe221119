@@ -1,0 +1,14 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+}
+
+.app-container {
+  border: 1px solid #ccc;
+  padding: 30px;
+  max-width: 1200px;
+  margin: 15px auto;
+}
